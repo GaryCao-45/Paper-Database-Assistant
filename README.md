@@ -3,9 +3,9 @@
 
 Based on the Academic Paper PDF Batch Downloader, the LLM Auto Feature Extract function has been added, enabling fully automated generation of structured datasets through the use of APIs and custom prompts. For specific operations, please refer to the user manual. Due to my personal model invocation habits, currently, this assistant only supports API keys for Google AI Studio and Openrouter.
 
-助力每一个AI4Science的硕博生！欢迎大家前来讨论，不要让数据集阻碍模型的性能。
+助力每一个AI4Science的硕博生！欢迎大家前来讨论，不要让数据集阻碍模型的性能!
 
-Support every AI4Science master's and doctoral student! Welcome everyone to discuss, don't let datasets hinder model performance.
+Support every AI4Science master's and doctoral student! Welcome everyone to discuss, don't let datasets hinder model performance!
 
 The datasets you choose define the ceiling of what your model can learn.
 
